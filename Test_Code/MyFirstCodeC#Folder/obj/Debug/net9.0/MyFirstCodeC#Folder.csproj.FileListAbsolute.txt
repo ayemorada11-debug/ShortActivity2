@@ -1,0 +1,14 @@
+C:\Users\Andrei\Documents\CODING\MyFirstCodeC#Folder\bin\Debug\net9.0\MyFirstCodeC#Folder.exe
+C:\Users\Andrei\Documents\CODING\MyFirstCodeC#Folder\bin\Debug\net9.0\MyFirstCodeC#Folder.deps.json
+C:\Users\Andrei\Documents\CODING\MyFirstCodeC#Folder\bin\Debug\net9.0\MyFirstCodeC#Folder.runtimeconfig.json
+C:\Users\Andrei\Documents\CODING\MyFirstCodeC#Folder\bin\Debug\net9.0\MyFirstCodeC#Folder.dll
+C:\Users\Andrei\Documents\CODING\MyFirstCodeC#Folder\bin\Debug\net9.0\MyFirstCodeC#Folder.pdb
+C:\Users\Andrei\Documents\CODING\MyFirstCodeC#Folder\obj\Debug\net9.0\MyFirstCodeC#Folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\Documents\CODING\MyFirstCodeC#Folder\obj\Debug\net9.0\MyFirstCodeC#Folder.AssemblyInfoInputs.cache
+C:\Users\Andrei\Documents\CODING\MyFirstCodeC#Folder\obj\Debug\net9.0\MyFirstCodeC#Folder.AssemblyInfo.cs
+C:\Users\Andrei\Documents\CODING\MyFirstCodeC#Folder\obj\Debug\net9.0\MyFirstCodeC#Folder.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Documents\CODING\MyFirstCodeC#Folder\obj\Debug\net9.0\MyFirstCodeC#Folder.dll
+C:\Users\Andrei\Documents\CODING\MyFirstCodeC#Folder\obj\Debug\net9.0\refint\MyFirstCodeC#Folder.dll
+C:\Users\Andrei\Documents\CODING\MyFirstCodeC#Folder\obj\Debug\net9.0\MyFirstCodeC#Folder.pdb
+C:\Users\Andrei\Documents\CODING\MyFirstCodeC#Folder\obj\Debug\net9.0\MyFirstCodeC#Folder.genruntimeconfig.cache
+C:\Users\Andrei\Documents\CODING\MyFirstCodeC#Folder\obj\Debug\net9.0\ref\MyFirstCodeC#Folder.dll
